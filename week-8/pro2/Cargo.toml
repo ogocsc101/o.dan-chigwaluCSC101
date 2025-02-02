@@ -1,0 +1,10 @@
+[package]
+<<<<<<< HEAD
+name = "Project2"
+=======
+name = "hello"
+>>>>>>> da0e8ab90b3adfba594e294c13b3df374210bdd2
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
